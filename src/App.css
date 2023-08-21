@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.container {
+  height: 30vh;
+  width: 20vw;
+  border: 1px solid;
+  padding: 10px;
+  border-radius: 5px;
+  border-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  width: 15vw;
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+  display: block;
+  margin: 20px;
+  color: black;
+}
+.btn {
+  background-color: white;
+  border-color: black;
+  color: black;
+}
